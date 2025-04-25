@@ -1,0 +1,60 @@
+research papers and key differences
+
+Network Congestion Visualization for Vehicular Communication using Streamlit Approach-used for analyzing network congestion data for seamless 
+network communication https://www.researchsquare.com/article/rs-4394870/v1
+
+
+Real-Time Monitoring and Assessment of Rehabilitation Exercises for Low Back Pain through Interactive Dashboard Pose Analysis Using Streamlit—A Pilot Study
+https://www.mdpi.com/2079-9292/13/18/3782 analyzes the various body positions using streamlit and visualises poses
+
+
+Research Analysis of Data Exploration and Visualization Dashboard Using Data Science
+https://www.igi-global.com/chapter/research-analysis-of-data-exploration-and-visualization-dashboard-using-data-science/349870
+most similar provides similar analysis key difference is our project can upload datasets in various formats
+
+Data Insights Nexus-Innovative Platform for Dynamic Modeling and Visual Analytics
+https://ieeexplore.ieee.org/abstract/document/10544527
+is used to analyse geopolitical data, we can use our project for any form of data.
+
+Data analysis and data visualization tools for sales and sales predicta- bility on E-commerce platform
+https://www.theseus.fi/handle/10024/865971
+used to analyse only ecommerce information, limited to a certain type of data.
+
+Data Visualization for the Dataset Collected from Education Sector Using Python
+https://ieeexplore.ieee.org/abstract/document/10593329
+uses a dataset only consisting of data relating to education statistics provided by public institutions of learning.
+
+https://ieeexplore.ieee.org/abstract/document/10867196/
+uses langchain an effective tool for merging large language models can be considered for future scope
+Effective Data Analysis Assistance with AI and Streamlit Integration with LangChain
+
+
+[HTML] A Web Application for exploratory data analysis and classification of Parkinson's Disease patients using machine learning models on different datasets
+https://www.sciencedirect.com/science/article/pii/S2665963824001258
+uses and integrates ai models to provide analysis related to data for only one specefic field
+
+
+https://link.springer.com/article/10.1007/s11042-024-20244-5
+predicts disease using ml model does not visualise only uses stremalit framework to make a ui
+
+
+Optimizing stainless steel tensile strength analysis: through data exploration and machine learning design with Streamlit
+http://www.journal.eu-jr.eu/engineering/article/view/3296
+used to analyse the tensile strengths of metals, no other use
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
